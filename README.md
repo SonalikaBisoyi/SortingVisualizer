@@ -17,8 +17,8 @@ Sorting Visualizer is a web application built with React and Chakra UI that allo
 ## Usage
 
 1. Clone the repository:
-   git clone <repository-url>
-2.Navigate to the project directory:
+   git clone <repository-url>  
+2. Navigate to the project directory:
    cd sortingvisualizer
 3. Install dependencies:
    npm install
